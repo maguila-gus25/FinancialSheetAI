@@ -1,0 +1,8 @@
+# Google Gemini API Key
+# Obtenha sua chave em: https://makersuite.google.com/app/apikey
+GOOGLE_API_KEY=sua_chave_google_gemini_aqui
+
+# n8n Webhook URL
+# URL do webhook configurado no n8n
+N8N_WEBHOOK_URL=https://seu-webhook-n8n.com/webhook
+
